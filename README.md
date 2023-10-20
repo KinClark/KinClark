@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KinClark
-- 👀 I’m interested in coding amd watching anime
+- 👀 I’m interested in coding and watching anime
 - 🌱 I’m currently learning python, java, html
 - 💞️ I’m looking to collaborate on making systems and games
 - 📫 How to reach me gmail:kibo.perez.swu@phinmaed.com
