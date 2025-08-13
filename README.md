@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KinClark
+- 👋 Hi, I’m @Kin Clark B. Perez
 - 👀 I’m interested in coding and watching anime
 - 🌱 I’m currently learning python, java, html
 - 💞️ I’m looking to collaborate on making systems and games
